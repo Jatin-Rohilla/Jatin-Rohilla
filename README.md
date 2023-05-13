@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jatin-Rohilla
-- 👀 I’m interested in ... chicks
-- 🌱 I’m currently learning ... how to get chicks
-- 💞️ I’m looking to collaborate on ... plan to attract chicks
+- 👀 I’m interested in ... Divya
+- 🌱 I’m currently learning ... Divya
+- 💞️ I’m looking to love Divya
  
 
 <!---
