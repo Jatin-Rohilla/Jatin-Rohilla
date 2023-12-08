@@ -23,7 +23,7 @@
 
 - 🔭 I'm currently working on my **Web Develpoment skills.**
 - 🛠 I’m currently learning **React and MongoDB**
-- 👯 I'm looking for colaboration on building a  **Full MERN Stack Project**
+- ⚡ I'm looking for colaboration on building a  **Full MERN Stack Project**
 - 💬 Ask me about anything, I am happy to help.2
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
