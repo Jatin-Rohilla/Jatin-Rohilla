@@ -43,8 +43,11 @@
 ## 📖 What I am currently learning / improving on
 
 <p align="center">
-<img src="https://img.shields.io/badge/Vuejs-282C34?logo=Vue.js&logoColor=43B882" alt="Vuejs logo" title="Vue.js" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Vuejs logo" title="Vue.js" height="25" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" title="Redux" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="React" title="Redux" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="React" title="Redux" height="25" />
+<img src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="React" title="Redux" height="25" />
  </p>
  
 <br/>
@@ -55,13 +58,23 @@
 
 <p align="center">
 <!-- <a href="https://twitter.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> -->
+
+
 <a href="https://www.linkedin.com/in/jatin-rohilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
-</p>
+<br><br>
+
+<a href="https://www.buymeacoffee.com/jatinrohilla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a>
 
 <br>
 
 
+<!-- <a href="https://instagram.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
+
+</p>
+
+<br>
+
+<!-- 
 ## &#x1f4c8; My GitHub Stats
 
 <p  align="center"> 
@@ -70,17 +83,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-rohilla&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
-<br>
+<br> -->
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-rohilla&theme=black-ice" alt="Salonee-Jain"  /></p>
 
-<br>
+<br> -->
 
-## 💰 Support
 
-<p><a href="https://www.buymeacoffee.com/jatinrohilla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a>
-</p>
+
+
 
 </details>
