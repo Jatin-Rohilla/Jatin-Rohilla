@@ -47,7 +47,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" title="Redux" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="React" title="Redux" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="React" title="Redux" height="25" />
-<img src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="React" title="Redux" height="25" />
+<!-- <img src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="React" title="Redux" height="25" /> -->
  </p>
  
 <br/>
