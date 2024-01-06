@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jatin-Rohilla&label=Profile%20views&color=0e75b6&style=flat" alt="Jatin-Rohilla" /> </p>
 
-<br>
+
 
 - 🔭 I'm currently working on my **Develpoment skills.**
 - 👨‍💻 All my projects are available at <a href="JatinRohilla.com">**JatinRohilla.com**</a>
@@ -24,7 +24,7 @@
 
 <br/>
 
-## 💻 Tech Stack:
+## 👨‍💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
