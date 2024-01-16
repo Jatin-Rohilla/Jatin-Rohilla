@@ -20,7 +20,7 @@
 - 👨‍💻 All my projects are available at <a href="https://jatinrohilla.com/">JatinRohilla.com</a>
 - ⚡ I'm looking for colaboration on building a **Full MERN Stack Project**
 - 💬 Ask me about anything, I am happy to help anytime.
-- 📫 How to reach me Jatinrohilla.in@gmail.com .
+- 📫 How to reach me Jatinrohilla.in@gmail.com.
 
 <br/>
 
