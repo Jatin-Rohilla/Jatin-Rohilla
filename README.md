@@ -16,9 +16,9 @@
 
 
 
-- 🔭 I'm currently working on my **Develpoment skills.**
-- 👨‍💻 All my projects are available at <a href="https://jatin-rohilla.github.io/">Jatin-Rohilla.github.io</a>
-- ⚡ I'm looking for colaboration on building a **Full MERN Stack Project**
+- 🔭 I'm continuously working on my **Develpoment skills.**
+- 👨‍💻 All my projects are available at <a href="https://jatin-rohilla.github.io/">Jatin-Rohilla.github.io</a>.
+- ⚡ I'm looking for colaboration on building a **Full MERN Stack Project**.
 - 💬 Ask me about anything, I am happy to help anytime.
 - 📫 How to reach me Jatinrohilla.in@gmail.com.
 
