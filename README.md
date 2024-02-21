@@ -4,9 +4,7 @@
 
 <br>
 
-<h1 align="center">
-𝐇i , I'm Jatin Rohilla
-</h1>
+<h1 align="center">𝐇i , I'm Jatin Rohilla <br>(Aspiring Web Devloper)</h1>
 
 <br/>
 
