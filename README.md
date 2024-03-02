@@ -6,7 +6,7 @@
 
 <h1 align="center">𝐇i , I'm Jatin Rohilla <br>(Aspiring Web Developer)</h1>
 
-<br/>
+<br/> 
 
 <img align="right" height="250" width="400" alt="GIF" src="./Src/0.gif"/>
 
