@@ -6,7 +6,7 @@
    
 <h1 align="center">𝐇i , I'm Jatin Rohilla <br> </h1>
  
-<br/>  
+<br/>   
  
 <img align="right" height="250" width="400" alt="GIF" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"/> 
 
