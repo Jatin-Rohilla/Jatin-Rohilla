@@ -2,7 +2,7 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>    
              
-<br>              
+<br>               
      
 <h1 align="center">𝐇i , I'm Jatin Rohilla <br> </h1>
  
