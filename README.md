@@ -14,7 +14,7 @@
  
        
    
-- 🔭 I'm continuously working on my **Develpoment skills.**
+- 🔭 **Developing** a new feature every week.
 - 👨‍💻 All my projects are available at <a href="https://jatin-rohilla.github.io/">Jatin-Rohilla.github.io</a>.
 - ⚡ I'm looking for colaboration on building a **Full MERN Stack Project**.
 - 💬 Ask me about anything, I am happy to help anytime.
